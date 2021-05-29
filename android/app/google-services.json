@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988857431542",
+    "project_id": "kailo-aed25",
+    "storage_bucket": "kailo-aed25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988857431542:android:8c60a045fd4fb6f4e2c3d7",
+        "android_client_info": {
+          "package_name": "com.example.kailo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988857431542-4jnpm3jh5bds34d0r8osj1r30c38kv4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcbYzUK1qWgNDr6wXDKgI1MjJ86ehYVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988857431542-4jnpm3jh5bds34d0r8osj1r30c38kv4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
