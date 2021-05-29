@@ -35,8 +35,7 @@ class PostModel {
     this.userName = mapData["username"];
     this.content = mapData["content"];
     this.feeling = mapData["feeling"];
-    this.time =
-        new DateTime.fromMillisecondsSinceEpoch((mapData["time"].seconds));
+    this.time = mapData["time"].toDate();
     this.likes = mapData["likes"];
     this.title = mapData["title"];
     this.uid = mapData["uid"];
